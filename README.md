@@ -1,106 +1,165 @@
-<h1 align="left" id="youssef-title">👋 Hello there! I'm Youssef Elsayed</h1>
+<!-- HEADER -->
 
-<h3 align="left">Data Analyst | Business Intelligence Enthusiast | Computer Science Student</h3>
+<h1 align="center">Hi 👋, I'm Youssef Elsayed</h1>
 
-<p align="left">
-  <a href="https://github.com/Uosiphsayed">
-    <img src="https://komarev.com/ghpvc/?username=Uosiphsayed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<h3 align="center">
+Data Analyst • Business Intelligence Enthusiast • Computer Science Student
+</h3>
 
-  <a href="https://github.com/Uosiphsayed?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Uosiphsayed?style=flat&logo=github">
-  </a>
-
-  <a href="https://www.linkedin.com/in/youssef-elsayed-498b83369">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Youssef%20Elsayed-blue?logo=linkedin">
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Enthusiast;Machine+Learning+Learner;Computer+Science+Student;Turning+Data+Into+Insights" />
 </p>
 
-<a href="#youssef-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uosiphsayed&show_icons=true&theme=transparent" alt="stats" align="right" />
+<p align="center">
+<a href="https://github.com/Uosiphsayed">
+<img src="https://komarev.com/ghpvc/?username=Uosiphsayed&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </a>
 
-- 🎓 I'm currently studying **Computer Science at MUST University**
-- 📊 I'm focusing on **Data Analysis & Business Intelligence**
-- 🌱 Currently learning **Data Science & Machine Learning**
-- 💼 Looking for internships and opportunities in Data Analytics
-- 📫 Reach me at **yoyoelsayed101@gmail.com**
-- 💻 Connect with me on **LinkedIn**
+<a href="https://github.com/Uosiphsayed?tab=followers">
+<img src="https://img.shields.io/github/followers/Uosiphsayed?style=for-the-badge&logo=github"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/youssef-elsayed-498b83369">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
-<h2 align="left" id="youssef-tech">Favorite Tech</h2>
+---
 
-> Tools, languages, and technologies I enjoy working with.
+# 🚀 About Me
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
+🎓 Computer Science Student at MUST University
 
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
+📊 Passionate about Data Analysis, Business Intelligence & Data Visualization
 
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
+📈 Building dashboards and transforming data into business insights
 
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
+🤖 Currently learning Machine Learning & Data Science
 
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
+💡 Interested in Analytics, AI, Databases, and Decision Support Systems
 
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
+📫 Reach me: **yoyoelsayed101@gmail.com**
 
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
+---
 
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
-      <br>Excel
-    </td>
-  </tr>
-</table>
+# 💻 Tech Stack
 
-<h2 align="left">GitHub Activity</h2>
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+</p>
+
+### Data Analysis
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+</p>
+
+### BI & Visualization
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uosiphsayed&theme=github-dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Uosiphsayed&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uosiphsayed&layout=compact&theme=tokyonight"/>
 </p>
 
-<h2 align="left">GitHub Trophies</h2>
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uosiphsayed&theme=onedark&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uosiphsayed&theme=tokyonight"/>
 </p>
 
-<h2 align="left">Top Languages</h2>
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uosiphsayed&layout=compact&theme=transparent" />
+<img src="https://github-profile-trophy.vercel.app/?username=Uosiphsayed&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
-<h2 align="left">Connect With Me</h2>
+---
 
-<p>
-  📧 Email: yoyoelsayed101@gmail.com
-  <br>
-  💼 LinkedIn: https://www.linkedin.com/in/youssef-elsayed-498b83369
-  <br>
-  🐙 GitHub: https://github.com/Uosiphsayed
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uosiphsayed&theme=tokyo-night"/>
 </p>
+
+---
+
+# 🎓 Education
+
+Bachelor of Computer Science
+
+Misr University for Science and Technology (MUST)
+
+Expected Graduation: 2027
+
+---
+
+# 📜 Certifications
+
+✅ Huawei ICT Academy
+
+✅ Database Management Systems
+
+✅ Information Systems
+
+✅ Data Analytics Training
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/youssef-elsayed-498b83369">
+<img src="https://img.shields.io/badge/LinkedIn-Youssef%20Elsayed-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yoyoelsayed101@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Uosiphsayed">
+<img src="https://img.shields.io/badge/GitHub-Uosiphsayed-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+<h3 align="center">
+📊 Turning Data Into Insights 🚀
+</h3>
